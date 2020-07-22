@@ -1,0 +1,10 @@
+name: ConsoleListener
+version: ${project.version}
+main: dev.ex4.consolelistener.ConsoleListener
+api-version: 1.16
+authors: [ex4]
+commands:
+  consolelistener:
+    usage: '/<command> [reload]'
+    description: 'Listen to console!'
+    aliases: ['cl']

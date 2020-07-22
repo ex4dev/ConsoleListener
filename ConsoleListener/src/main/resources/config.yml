@@ -1,0 +1,7 @@
+messages:
+  no-permission: '&cInsufficient permission.'
+  listen-on: '&aYou are now listening to console messages.'
+  listen-off: '&aYou are no longer listening to console messages.'
+  message-format: '&8> [{logger}] {message}'
+  no-console: '&cYou must be a player to execute this command.'
+  config-reloaded: '&aConfiguration reloaded successfully.'
